@@ -1,0 +1,7 @@
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\Practica_1\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\Practica_1\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\Practica_1\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\Practica_1\Practica_1\obj\Debug\TP_Practica_1.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\Practica_1\Practica_1\obj\Debug\TP_Practica_1.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\Practica_1\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\Practica_1\Practica_1\obj\Debug\Practica_1.pdb
