@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TP_Nro2_Lab3.Ej_B1.FracionAPP</StartupObject>
+    <StartupObject>TP_Nro2_Lab3.Ej_B2.Cadenas</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="Ej_B1\Fraccion.cs" />
     <Compile Include="Ej_B1\FraccionException.cs" />
     <Compile Include="Ej_B1\FracionAPP.cs" />
+    <Compile Include="Ej_B2\Cadenas.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
