@@ -28,7 +28,7 @@ namespace TP_Nro2_Lab3.Ej_B2
         }
         private static string validarExtensionCadena(string cadena1, string cadena2)
         {
-            while (!(cadena2.Length <= cadena1.Length))
+            while (cadena2.Length > cadena1.Length)
             {
                 Console.Write($"Ingrese una cadena menor o igual a {cadena1.Length} caracteres: ");
                 cadena2 = Console.ReadLine();
