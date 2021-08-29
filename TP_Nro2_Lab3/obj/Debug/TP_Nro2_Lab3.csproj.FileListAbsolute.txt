@@ -1,0 +1,7 @@
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\TP_Nro2_Lab3\bin\Debug\TP_Nro2_Lab3.exe.config
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\TP_Nro2_Lab3\bin\Debug\TP_Nro2_Lab3.exe
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\TP_Nro2_Lab3\bin\Debug\TP_Nro2_Lab3.pdb
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\TP_Nro2_Lab3\obj\Debug\TP_Nro2_Lab3.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\TP_Nro2_Lab3\obj\Debug\TP_Nro2_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\TP_Nro2_Lab3\obj\Debug\TP_Nro2_Lab3.exe
+C:\Users\ferna\OneDrive\UTN\02_Materias\3er SEMESTRE\Laboratorio de Computación III\Proyectos de C#\FER\TP_Nro2_Lab3\obj\Debug\TP_Nro2_Lab3.pdb
