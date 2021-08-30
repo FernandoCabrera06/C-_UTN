@@ -12,7 +12,7 @@ namespace TP_Nro2_Lab3.Ej_B1
         static void Main(string[] args)
         {
 
-            Fraccion fraccion1 = new Fraccion(0, 8); //cambiar el 0 por 3 para probar funcionamiento.
+            Fraccion fraccion1 = new Fraccion(3, 8); //cambiar el 0 por 3 para probar funcionamiento.
             Fraccion fraccion2 = new Fraccion(1, 6);
 
             Fraccion resultanteSuma = fraccion1.Sumar(fraccion2);
