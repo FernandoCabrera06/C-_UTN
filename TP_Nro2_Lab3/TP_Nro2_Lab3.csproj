@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TP_Nro2_Lab3.Ej_D.Ej_D6.DepositoAPP</StartupObject>
+    <StartupObject>TP_Nro2_Lab3.Ej_E.HilosAPP</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -56,6 +56,12 @@
     <Compile Include="Ej_D\Ej_D6\Articulo.cs" />
     <Compile Include="Ej_D\Ej_D6\Deposito.cs" />
     <Compile Include="Ej_D\Ej_D6\DepositoAPP.cs" />
+    <Compile Include="Ej_D\Ej_D7\Circulo.cs" />
+    <Compile Include="Ej_D\Ej_D7\Figura.cs" />
+    <Compile Include="Ej_D\Ej_D7\FiguraAPP.cs" />
+    <Compile Include="Ej_D\Ej_D7\Rectangulo.cs" />
+    <Compile Include="Ej_D\Ej_D7\Triangulo.cs" />
+    <Compile Include="Ej_E\HilosAPP.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
