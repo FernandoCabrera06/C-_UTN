@@ -11,7 +11,7 @@ namespace TP_Nro2_Lab3.Ej_D.Ej_D7
         public override void Dibujar()
         {
             Console.WriteLine("Dibuja Rectangulo");
+            base.Dibujar();
         }
-
     }
 }

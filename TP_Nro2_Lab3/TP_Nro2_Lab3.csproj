@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TP_Nro2_Lab3.Ej_E.HilosAPP</StartupObject>
+    <StartupObject>TP_Nro2_Lab3.Ej_D.Ej_D7.FiguraAPP</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,12 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ej_A\TeoriaNET.cs" />
     <Compile Include="Ej_B\Ej_B1\Fraccion.cs" />
     <Compile Include="Ej_B\Ej_B1\FraccionException.cs" />
     <Compile Include="Ej_B\Ej_B1\FracionAPP.cs" />
     <Compile Include="Ej_B\Ej_B2\Cadenas.cs" />
     <Compile Include="Ej_C\Ej_C1\ArreglosAPP.cs" />
     <Compile Include="Ej_C\Ej_C2\Arreglos2APP.cs" />
+    <Compile Include="Ej_D\Ej_D1_al_D4\TeoriaOBJETOS.cs" />
     <Compile Include="Ej_D\Ej_D5\Cheque.cs" />
     <Compile Include="Ej_D\Ej_D6\Articulo.cs" />
     <Compile Include="Ej_D\Ej_D6\Deposito.cs" />
